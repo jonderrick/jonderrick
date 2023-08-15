@@ -14,6 +14,12 @@
 ##### Questions I have / Things to follow up 
 
 
+##### Previously
+
+Uni of York 2015-18 BEng Computer Science (2:1)
+Uni of York 2019-19 MA Theatre: Writing, Directing & Performance 
+
+
 
 
 <!---
