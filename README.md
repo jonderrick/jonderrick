@@ -3,7 +3,7 @@
 - 😍 TypeScript / Front-end 
 - 💔 Java
 
-#### Things I want to get better at
+### Things I want to get better at
 - Efficiency / Learning / Quality solutions
 - Docker 
 - CI / Testing Strategy
@@ -16,8 +16,8 @@
 
 ##### Previously
 
-Uni of York 2015-18 BEng Computer Science (2:1)
-Uni of York 2019-19 MA Theatre: Writing, Directing & Performance 
+- Uni of York 2015-18 BEng Computer Science (2:1)
+- Uni of York 2019-19 MA Theatre: Writing, Directing & Performance 
 
 
 
