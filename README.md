@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jon 
+### Jon. 
 - 👀 Attempting to becoming a competent developer
 - 😍 TypeScript / Front-end 
 - 💔 Java
