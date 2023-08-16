@@ -1,4 +1,4 @@
-### Jon attempts to becoming a competent developer
+## Jon attempts to becoming a competent developer
 - 😍 TypeScript / Front-end 
 - 💔 Java
 
