@@ -1,9 +1,8 @@
-### Jon. 
-- 👀 Attempting to becoming a competent developer
+### Jon attempts to becoming a competent developer
 - 😍 TypeScript / Front-end 
 - 💔 Java
 
-### Things I want to get better at
+### Things I want to learn/get better at
 - Efficiency / Learning / Quality solutions
 - Docker 
 - CI / Testing Strategy
@@ -17,7 +16,6 @@
 ##### Previously
 
 - Uni of York 2015-18 BEng Computer Science (2:1)
-- Uni of York 2019-19 MA Theatre: Writing, Directing & Performance 
 
 
 
