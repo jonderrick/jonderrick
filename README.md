@@ -4,7 +4,7 @@
 
 ### Things I want to learn/get better at
 - Efficiency / Learning / Quality solutions
-- Docker 
+- Containers / Docker 
 - CI / Testing Strategy
 - Accessibility
 - Fundamental Cloud understanding
