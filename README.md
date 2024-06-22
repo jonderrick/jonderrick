@@ -2,17 +2,6 @@
 - 😍 TypeScript / Front-end 
 - 💔 Java
 
-### Things I want to learn/get better at
-- Efficiency / Learning / Quality solutions
-- Containers / Docker 
-- CI / Testing Strategy
-- Accessibility
-- Fundamental Cloud understanding
-
-
-##### Questions I have / Things to follow up 
-
-
 ##### Previously
 
 - Uni of York 2015-18 BEng Computer Science (2:1)
