@@ -1,6 +1,5 @@
 ## Jon attempts to become a competent developer
-- 😍 TypeScript / Front-end 
-- 💔 Java
+
 
 ##### Previously
 
